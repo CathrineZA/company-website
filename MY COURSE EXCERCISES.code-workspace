@@ -1,0 +1,64 @@
+{
+  "folders": [
+	{
+		"path": "../../Documents/MY COURSE EXCERCISES"
+	},
+	{
+		"path": "../My-projects"
+	},
+	{
+		"path": "../My-Weather-App"
+	},
+	{
+		"path": "../Vanilla-Weather-Search"
+	},
+	{
+		"path": "../Vanilla-Weather-Forecast-Project"
+	},
+	{
+		"path": "../Advanced-tools-homework"
+	},
+	{
+		"path": "../port-project"
+	},
+	{
+		"path": "../Portfolio-homework"
+	},
+	{
+		"path": "../My-portfolio"
+	},
+	{
+		"path": "../shecodesbasic"
+	},
+	{
+		"path": "../wapp"
+	},
+	{
+		"path": "../react-weather"
+	},
+	{
+		"path": "../weather-app-react"
+	},
+	{
+		"path": "../final-react-app"
+	},
+	{
+		"path": "../My-Clock"
+	},
+	{
+		"path": "../testing"
+	},
+	{
+		"path": "../react-applica"
+	},
+	{
+		"path": "../BurgerMenu"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "BurgerMenu"
+  }
+}
