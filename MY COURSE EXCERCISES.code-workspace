@@ -31,9 +31,6 @@
       "path": "../shecodesbasic"
     },
     {
-      "path": "../wapp"
-    },
-    {
       "path": "../react-weather"
     },
     {
@@ -46,19 +43,41 @@
       "path": "../My-Clock"
     },
     {
-      "path": "../testing"
-    },
-    {
-      "path": "../react-applica"
-    },
-    {
-      "path": "../BurgerMenu"
-    },
-    {
       "path": "."
+    },
+    {
+      "path": "../newportfolio"
+    },
+    {
+      "path": "../background.html"
+    },
+    {
+      "path": "../transform.html"
+    },
+    {
+      "path": "../grid.html"
+    },
+    {
+      "path": "../manupulation.html"
+    },
+    {
+      "path": "../basic-addon-project"
+    },
+    {
+      "path": "../plus-addon-project"
+    },
+    {
+      "path": "../responsive-project"
+    },
+    {
+      "path": "../React-dictionary"
+    },
+    {
+      "path": "../dictionary-app"
     }
   ],
   "settings": {
-    "liveServer.settings.multiRootWorkspaceName": "Vanilla-Weather-Forecast-Project"
+    "liveServer.settings.multiRootWorkspaceName": "dictionary-app",
+    "json.schemas": []
   }
 }
