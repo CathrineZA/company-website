@@ -70,14 +70,23 @@
       "path": "../responsive-project"
     },
     {
-      "path": "../React-dictionary"
+      "path": "../dictionary-app"
     },
     {
-      "path": "../dictionary-app"
+      "path": "../responsive-email"
+    },
+    {
+      "path": "../gifResEmail"
+    },
+    {
+      "path": "../email-activities"
+    },
+    {
+      "path": "../../Downloads/Responsive HTML Email Course/1. HTML Email Project"
     }
   ],
   "settings": {
-    "liveServer.settings.multiRootWorkspaceName": "dictionary-app",
+    "liveServer.settings.multiRootWorkspaceName": "1. HTML Email Project",
     "json.schemas": []
   }
 }
